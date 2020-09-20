@@ -13,5 +13,5 @@ series:
 
 
 peers:
-  slurmd:
-    interface: slurmd
+  slurmctld-peer:
+    interface: slurmctld-peer
